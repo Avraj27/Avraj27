@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avraj27
+- 👋 Hi, I’m Aditya Vishwaraj,
 -  Interested in Research, Innovation and Development 
 -  Currently learning UX designing, Web development and AIML
 -  Looking to collaborate on doing Innovations
